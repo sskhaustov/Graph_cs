@@ -1,0 +1,18 @@
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\bin\Debug\Graph.exe
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\bin\Debug\Graph.pdb
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\obj\Debug\Graph.Form1.resources
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\obj\Debug\Graph.settings.resources
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\obj\Debug\Graph.exe
+C:\Users\gunya06\AppData\Local\Temporary Projects\Graph\obj\Debug\Graph.pdb
+D:\labC\Graph\Graph\obj\Debug\Graph.exe
+D:\labC\Graph\Graph\obj\Debug\Graph.pdb
+D:\labC\Graph\Graph\bin\Debug\Graph.exe
+D:\labC\Graph\Graph\bin\Debug\Graph.pdb
+D:\labC\Graph\Graph\obj\Debug\ResolveAssemblyReference.cache
+D:\labC\Graph\Graph\obj\Debug\Graph.Form1.resources
+D:\labC\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+D:\labC\Graph\Graph\obj\Debug\Graph.settings.resources
+D:\labC\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.Cache
